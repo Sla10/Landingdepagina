@@ -1,0 +1,1 @@
+Este es el Landing de una Pagina Deportiva la cual presengta sus productos, se utiliza CSS, tecnicas de FlexBox, CSS Grids y se puede ver en moviles.
